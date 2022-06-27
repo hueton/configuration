@@ -1,1 +1,1 @@
-# hueton.github.io/configuration
+# hueton.github.io/configurations
