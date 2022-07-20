@@ -2,7 +2,7 @@
     "banners": [{
         "title": "Welcome to WEB3",
         "subtitle": "Tap to me and learn what is it",
-        "imageURL": "https://hueton.github.io/configurations/wallet/mobile/resources/bf3ac7f6-084b-11ed-861d-0242ac120002.png",
+        "imageURL": "https://juston-io.github.io/configurations/wallet/mobile/resources/bf3ac7f6-084b-11ed-861d-0242ac120002.png",
         "action": {
             "kase": "inapp",
             "type": "web3promo"
