@@ -2,7 +2,7 @@
     "banners": [{
         "title": "Welcome to WEB3",
         "subtitle": "Tap to me and learn what is it",
-        "imageURL": "https://github.com/labraburn/juston-configurations/blob/62a4bfd3ac675a07717d232b395d39b3df1c8fed/wallet/mobile/resources/bf3ac7f6-084b-11ed-861d-0242ac120002.png",
+        "imageURL": "https://labraburn.github.io/juston-configurations/wallet/mobile/resources/bf3ac7f6-084b-11ed-861d-0242ac120002.png",
         "action": {
             "kase": "inapp",
             "type": "web3promo"
